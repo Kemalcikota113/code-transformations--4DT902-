@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "c:\\Users\\kemal\\Downloads\\install (1)\\install\\antlr4-4.13.1.jar",
+        "c:\\Users\\kemal\\Downloads\\install (1)\\install\\antlr4-runtime-4.13.1.jar",
+        "c:\\Users\\kemal\\Downloads\\install (1)\\install\\org.abego.treelayout.core-1.0.3.jar"
+    ],
+    "java.project.sourcePaths": [
+        "."
+    ]
+}

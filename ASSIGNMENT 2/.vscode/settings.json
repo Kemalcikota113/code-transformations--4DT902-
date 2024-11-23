@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "c:\\Users\\kemal\\OneDrive\\Skrivbord\\uni-material\\Code transformations (4DT902)\\ANTLR_Starter_Kit_ 2024\\ANTLR_Starter_Kit_ 2024\\install\\org.abego.treelayout.core-1.0.3.jar",
+        "c:\\Users\\kemal\\OneDrive\\Skrivbord\\uni-material\\Code transformations (4DT902)\\ANTLR_Starter_Kit_ 2024\\ANTLR_Starter_Kit_ 2024\\install\\antlr4-runtime-4.13.1.jar",
+        "c:\\Users\\kemal\\OneDrive\\Skrivbord\\uni-material\\Code transformations (4DT902)\\ANTLR_Starter_Kit_ 2024\\ANTLR_Starter_Kit_ 2024\\install\\antlr4-4.13.1.jar"
+    ],
+    "java.project.sourcePaths": [
+        "."
+    ]
+}

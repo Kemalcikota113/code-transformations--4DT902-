@@ -1,0 +1,40 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "A2_b809839b"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "ofp.Main",
+            "projectName": "A2_b809839b"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "ofp.Main",
+            "projectName": "A2_fcd84f69"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "ofp.Main",
+            "projectName": "A2_6288db78"
+        },
+        {
+            "type": "antlr-debug",
+            "request": "launch",
+            "name": "Debug A2",
+            "grammar": "C:/Users/Blin/Desktop/code transformation/A2/Parser.g4",
+            "input": "C:/Users/Blin/Desktop/code transformation/A2/ofp/Simple.ofp",
+            "visualParseTree": true
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+void main() {
+	int p;
+	int z = 65;
+
+	if(z > 4){
+		int p;
+		if(z == 65){
+			int p;
+			p = 0;
+		}
+	}
+}

@@ -1,0 +1,42 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "antlr4.debug": {
+            "visualParseTreeHorizontal": true,
+            "visualParseTreeClustered": false
+        },
+        "antlr4.generation": {
+            "outputDir": "C:/Users/kemal/Downloads/A2/A2/generated",
+            "mode": "external",
+            "language": "Java",
+            "listeners": true,
+            "visitors": true
+        },
+        "launch": {
+            "configurations": [
+                {
+                    "type": "antlr-debug",
+                    "request": "launch",
+                    "name": "Debug A2",
+                    "grammar": "C:/Users/kemal/Downloads/A2/A2/Parser.g4",
+                    "input": "C:/Users/kemal/Downloads/A2/A2/OFPFiles/simple.ofp",
+                    "visualParseTree": true
+
+                }
+            ]
+        },
+        "java.project.referencedLibraries": [
+            "c:\\Users\\kemal\\OneDrive\\Skrivbord\\uni-material\\Code transformations (4DT902)\\ANTLR_Starter_Kit_ 2024\\ANTLR_Starter_Kit_ 2024\\install\\org.abego.treelayout.core-1.0.3.jar",
+            "c:\\Users\\kemal\\OneDrive\\Skrivbord\\uni-material\\Code transformations (4DT902)\\ANTLR_Starter_Kit_ 2024\\ANTLR_Starter_Kit_ 2024\\install\\antlr4-runtime-4.13.1.jar",
+            "c:\\Users\\kemal\\OneDrive\\Skrivbord\\uni-material\\Code transformations (4DT902)\\ANTLR_Starter_Kit_ 2024\\ANTLR_Starter_Kit_ 2024\\install\\antlr4-4.13.1.jar"
+        ],
+        "java.project.sourcePaths": [
+            "."
+        ],
+
+    }
+}

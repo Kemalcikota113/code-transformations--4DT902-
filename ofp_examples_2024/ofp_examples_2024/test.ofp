@@ -1,0 +1,6 @@
+void main() {
+
+    a = 3 + 4 + 5;
+    b = a - 7;
+    print(a+b);
+}
